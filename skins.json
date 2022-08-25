@@ -1,0 +1,20 @@
+{
+  "skins": [
+	{
+      "localization_name": "Free",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "skin1.png",
+      "cape": "cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Slim",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "skin2.png",
+      "cape": "cape.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "By Ghost-Tool",
+  "localization_name": "By Ghost-Tool"
+}
